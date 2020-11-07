@@ -1,7 +1,7 @@
 # A320-DLHVA-Livery for Microsoft Flight Simulator 2020
 
 ## About
-This Mod will add a DLHVA Livery to the A320neo.
+This Mod will add a DLHVA Livery to the A320neo (Compatible with latest MegaPack!).
 
 ![Overview](https://github.com/SheepCreativeSoftware/msfs2020-a320-DLHVA-Livery/blob/main/docs/View.png?raw=true)
 
