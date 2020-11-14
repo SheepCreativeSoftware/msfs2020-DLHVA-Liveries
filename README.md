@@ -5,11 +5,11 @@ This Mod will add a DLHVA Livery to the Aircrafts (Compatible with latest MegaPa
 
 ## Download
 
-Actual Release: 
--A320 neo v0.1.0:  
+Actual Release:  
+- A320 neo v0.1.0:  
 [https://github.com/SheepCreativeSoftware/msfs2020-DLHVA-Liveries/releases/tag/a320n-v0.1.0](https://github.com/SheepCreativeSoftware/msfs2020-DLHVA-Liveries/releases/tag/a320n-v0.1.0)
 
--Cessna 208B Grand Caravan EX v0.1.0:  
+- Cessna 208B Grand Caravan EX v0.1.0:  
 [https://github.com/SheepCreativeSoftware/msfs2020-DLHVA-Liveries/releases/tag/c208b-v0.1.0](https://github.com/SheepCreativeSoftware/msfs2020-DLHVA-Liveries/releases/tag/c208b-v0.1.0)
 
 ## How to install
