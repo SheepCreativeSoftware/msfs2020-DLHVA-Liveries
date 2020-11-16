@@ -1,0 +1,16 @@
+{
+  "dependencies": [],
+  "content_type": "AIRCRAFT",
+  "title": "Beechcraft King Air 350i DLH",
+  "manufacturer": "Textron Aviation",
+  "creator": "Sheep Indusries/Magraina",
+  "package_version": "0.0.1",
+  "minimum_game_version": "1.10.4",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  },
+  "total_package_size": "00000000000000000000"
+}
