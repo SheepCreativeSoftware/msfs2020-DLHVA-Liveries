@@ -1,74 +1,164 @@
 {
   "content": [
     {
-      "path": "SimObjects/Airplanes/Asobo_208B-DLH-Classic/aircraft.cfg",
-      "size": 4184,
-      "date": 132681761316048029
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-DLH-Regional/aircraft.cfg",
+      "size": 4243,
+      "date": 132682329223896174
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_208B-DLH-Classic/MODEL.AIC208DLHCLASSIC/model.CFG",
-      "size": 911,
-      "date": 132497788469356754
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-DLH-Regional/MODEL.AIB350DLHREGIONAL/model.CFG",
+      "size": 682,
+      "date": 132500240834632304
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_208B-DLH-Classic/MODEL.MAIN/model.CFG",
-      "size": 990,
-      "date": 132485824643926313
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-DLH-Regional/MODEL.MAIN/model.CFG",
+      "size": 743,
+      "date": 132485850764316810
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_208B-DLH-Classic/TEXTURE.C208DLHCLASSIC/CESSNA_208B_GRANDCARAVANEX_AIRFRAME_BODY_ALBD.PNG.DDS",
-      "size": 16777344,
-      "date": 132498666267219904
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-DLH-Regional/panel.B350DLHREGIONAL/PANEL.CFG",
+      "size": 1114,
+      "date": 132682322459758964
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_208B-DLH-Classic/TEXTURE.C208DLHCLASSIC/CESSNA_208B_GRANDCARAVANEX_AIRFRAME_BODY_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132421972720000000
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-DLH-Regional/TEXTURE.B350DLHREGIONAL/KINGAIR350I_AIRFRAME_DECALS_ALBD.TIF.DDS",
+      "size": 2097280,
+      "date": 132682183111870016
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_208B-DLH-Classic/TEXTURE.C208DLHCLASSIC/CESSNA_208B_GRANDCARAVANEX_AIRFRAME_DECAL_ALBD.PNG.DDS",
-      "size": 16777344,
-      "date": 132498638500630021
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_208B-DLH-Classic/TEXTURE.C208DLHCLASSIC/CESSNA_208B_GRANDCARAVANEX_AIRFRAME_DECAL_ALBD.PNG.DDS.json",
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-DLH-Regional/TEXTURE.B350DLHREGIONAL/KINGAIR350I_AIRFRAME_DECALS_ALBD.TIF.DDS.json",
       "size": 119,
-      "date": 132421972720000000
+      "date": 132422746240000000
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_208B-DLH-Classic/TEXTURE.C208DLHCLASSIC/CESSNA_208B_GRANDCARAVANEX_AIRFRAME_LIVERY_ALBD.PNG.DDS",
-      "size": 1152,
-      "date": 132423479900000000
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_208B-DLH-Classic/TEXTURE.C208DLHCLASSIC/CESSNA_208B_GRANDCARAVANEX_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132421972720000000
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_208B-DLH-Classic/TEXTURE.C208DLHCLASSIC/CESSNA_208B_GRANDCARAVANEX_AIRFRAME_WING_ALBD.PNG.DDS",
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-DLH-Regional/TEXTURE.B350DLHREGIONAL/KINGAIR350I_AIRFRAME_ENGINES_ALBD.PNG.DDS",
       "size": 16777344,
-      "date": 132498616211401876
+      "date": 132500426916372723
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_208B-DLH-Classic/TEXTURE.C208DLHCLASSIC/CESSNA_208B_GRANDCARAVANEX_AIRFRAME_WING_ALBD.PNG.DDS.json",
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-DLH-Regional/TEXTURE.B350DLHREGIONAL/KINGAIR350I_AIRFRAME_ENGINES_ALBD.PNG.DDS.json",
       "size": 102,
-      "date": 132423609920000000
+      "date": 132422746240000000
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_208B-DLH-Classic/TEXTURE.C208DLHCLASSIC/texture.CFG",
-      "size": 406,
-      "date": 132444645700000000
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-DLH-Regional/TEXTURE.B350DLHREGIONAL/KINGAIR350I_AIRFRAME_FUSELAGE_ALBD.PNG.DDS",
+      "size": 2097280,
+      "date": 132682396359614615
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_208B-DLH-Classic/TEXTURE.C208DLHCLASSIC/thumbnail.JPG",
-      "size": 110717,
-      "date": 132681743479431134
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-DLH-Regional/TEXTURE.B350DLHREGIONAL/KINGAIR350I_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132422746240000000
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_208B-DLH-Classic/TEXTURE.C208DLHCLASSIC/thumbnail_small.JPG",
-      "size": 26200,
-      "date": 132681744026617334
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-DLH-Regional/TEXTURE.B350DLHREGIONAL/KINGAIR350I_AIRFRAME_LIVERY_ALBD.PNG",
+      "size": 8320,
+      "date": 132500246038126497
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-DLH-Regional/TEXTURE.B350DLHREGIONAL/KINGAIR350I_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 8320,
+      "date": 132500245845779413
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-DLH-Regional/TEXTURE.B350DLHREGIONAL/KINGAIR350I_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132422746240000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-DLH-Regional/TEXTURE.B350DLHREGIONAL/KINGAIR350I_AIRFRAME_PROP_STATIC_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132422746240000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-DLH-Regional/TEXTURE.B350DLHREGIONAL/KINGAIR350I_AIRFRAME_PROP_STATIC_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132422746240000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-DLH-Regional/TEXTURE.B350DLHREGIONAL/KINGAIR350I_AIRFRAME_TAIL_ALBD.PNG.DDS",
+      "size": 2097280,
+      "date": 132682371882915106
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-DLH-Regional/TEXTURE.B350DLHREGIONAL/KINGAIR350I_AIRFRAME_TAIL_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132422746240000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-DLH-Regional/TEXTURE.B350DLHREGIONAL/KINGAIR350I_AIRFRAME_WINGS_ALBD.PNG.DDS",
+      "size": 8388736,
+      "date": 132682181543004419
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-DLH-Regional/TEXTURE.B350DLHREGIONAL/KINGAIR350I_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132422746260000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-DLH-Regional/TEXTURE.B350DLHREGIONAL/KINGAIR350I_CABIN_DETAILS_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132422746260000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-DLH-Regional/TEXTURE.B350DLHREGIONAL/KINGAIR350I_CABIN_DETAILS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132422746260000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-DLH-Regional/TEXTURE.B350DLHREGIONAL/KINGAIR350I_CABIN_FLOOR_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132422746260000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-DLH-Regional/TEXTURE.B350DLHREGIONAL/KINGAIR350I_CABIN_FLOOR_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132422746260000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-DLH-Regional/TEXTURE.B350DLHREGIONAL/KINGAIR350I_CABIN_SEATS_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132422746260000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-DLH-Regional/TEXTURE.B350DLHREGIONAL/KINGAIR350I_CABIN_SEATS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132422746260000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-DLH-Regional/TEXTURE.B350DLHREGIONAL/KINGAIR350I_CABIN_WALL_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132422746260000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-DLH-Regional/TEXTURE.B350DLHREGIONAL/KINGAIR350I_CABIN_WALL_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132422746260000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-DLH-Regional/TEXTURE.B350DLHREGIONAL/KINGAIR350I_COCKPIT_SEATS_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132422746260000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-DLH-Regional/TEXTURE.B350DLHREGIONAL/KINGAIR350I_COCKPIT_SEATS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132422746260000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-DLH-Regional/TEXTURE.B350DLHREGIONAL/texture.CFG",
+      "size": 305,
+      "date": 132444650820000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-DLH-Regional/TEXTURE.B350DLHREGIONAL/thumbnail.JPG",
+      "size": 310383,
+      "date": 132422746280000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-DLH-Regional/TEXTURE.B350DLHREGIONAL/thumbnail_small.JPG",
+      "size": 38635,
+      "date": 132422746280000000
     }
   ]
 }
