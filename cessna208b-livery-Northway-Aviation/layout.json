@@ -2,8 +2,8 @@
   "content": [
     {
       "path": "SimObjects/Airplanes/Asobo_208B-Northway-Aviation/aircraft.cfg",
-      "size": 4215,
-      "date": 132683460109832703
+      "size": 4231,
+      "date": 132684059534119806
     },
     {
       "path": "SimObjects/Airplanes/Asobo_208B-Northway-Aviation/MODEL.AINorthwayAviation/model.CFG",
@@ -16,9 +16,14 @@
       "date": 132485824643926313
     },
     {
+      "path": "SimObjects/Airplanes/Asobo_208B-Northway-Aviation/panel.NorthwayAviation/PANEL.CFG",
+      "size": 974,
+      "date": 132688641894258344
+    },
+    {
       "path": "SimObjects/Airplanes/Asobo_208B-Northway-Aviation/TEXTURE.NorthwayAviation/CESSNA_208B_GRANDCARAVANEX_AIRFRAME_BODY_ALBD.PNG.DDS",
-      "size": 16777344,
-      "date": 132498666267219904
+      "size": 8388736,
+      "date": 132688636958837912
     },
     {
       "path": "SimObjects/Airplanes/Asobo_208B-Northway-Aviation/TEXTURE.NorthwayAviation/CESSNA_208B_GRANDCARAVANEX_AIRFRAME_BODY_ALBD.PNG.DDS.json",
@@ -27,8 +32,8 @@
     },
     {
       "path": "SimObjects/Airplanes/Asobo_208B-Northway-Aviation/TEXTURE.NorthwayAviation/CESSNA_208B_GRANDCARAVANEX_AIRFRAME_DECAL_ALBD.PNG.DDS",
-      "size": 16777344,
-      "date": 132498638500630021
+      "size": 2097280,
+      "date": 132684145481468688
     },
     {
       "path": "SimObjects/Airplanes/Asobo_208B-Northway-Aviation/TEXTURE.NorthwayAviation/CESSNA_208B_GRANDCARAVANEX_AIRFRAME_DECAL_ALBD.PNG.DDS.json",
@@ -47,8 +52,8 @@
     },
     {
       "path": "SimObjects/Airplanes/Asobo_208B-Northway-Aviation/TEXTURE.NorthwayAviation/CESSNA_208B_GRANDCARAVANEX_AIRFRAME_WING_ALBD.PNG.DDS",
-      "size": 16777344,
-      "date": 132498616211401876
+      "size": 2097280,
+      "date": 132688588737401679
     },
     {
       "path": "SimObjects/Airplanes/Asobo_208B-Northway-Aviation/TEXTURE.NorthwayAviation/CESSNA_208B_GRANDCARAVANEX_AIRFRAME_WING_ALBD.PNG.DDS.json",
