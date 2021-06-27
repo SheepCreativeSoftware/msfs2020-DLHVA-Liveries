@@ -22,8 +22,8 @@
     },
     {
       "path": "SimObjects/Airplanes/Asobo_208B-Northway-Aviation/TEXTURE.NorthwayAviation/CESSNA_208B_GRANDCARAVANEX_AIRFRAME_BODY_ALBD.PNG.DDS",
-      "size": 8388736,
-      "date": 132688636958837912
+      "size": 11184952,
+      "date": 132692679993148125
     },
     {
       "path": "SimObjects/Airplanes/Asobo_208B-Northway-Aviation/TEXTURE.NorthwayAviation/CESSNA_208B_GRANDCARAVANEX_AIRFRAME_BODY_ALBD.PNG.DDS.json",
@@ -67,13 +67,13 @@
     },
     {
       "path": "SimObjects/Airplanes/Asobo_208B-Northway-Aviation/TEXTURE.NorthwayAviation/thumbnail.JPG",
-      "size": 110717,
-      "date": 132681743479431134
+      "size": 309081,
+      "date": 132688650021812744
     },
     {
       "path": "SimObjects/Airplanes/Asobo_208B-Northway-Aviation/TEXTURE.NorthwayAviation/thumbnail_small.JPG",
-      "size": 26200,
-      "date": 132681744026617334
+      "size": 56549,
+      "date": 132688650028830201
     }
   ]
 }
