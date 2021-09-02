@@ -3,7 +3,7 @@
     {
       "path": "SimObjects/Airplanes/Asobo_208B-DLH-Classic/aircraft.cfg",
       "size": 4184,
-      "date": 132681761316048029
+      "date": 132682328626588541
     },
     {
       "path": "SimObjects/Airplanes/Asobo_208B-DLH-Classic/MODEL.AIC208DLHCLASSIC/model.CFG",
@@ -29,6 +29,11 @@
       "path": "SimObjects/Airplanes/Asobo_208B-DLH-Classic/TEXTURE.C208DLHCLASSIC/CESSNA_208B_GRANDCARAVANEX_AIRFRAME_DECAL_ALBD.PNG.DDS",
       "size": 16777344,
       "date": 132498638500630021
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_208B-DLH-Classic/TEXTURE.C208DLHCLASSIC/CESSNA_208B_GRANDCARAVANEX_AIRFRAME_DECAL_ALBD.PNG.DDS.FLAGS",
+      "size": 17,
+      "date": 132719321530415741
     },
     {
       "path": "SimObjects/Airplanes/Asobo_208B-DLH-Classic/TEXTURE.C208DLHCLASSIC/CESSNA_208B_GRANDCARAVANEX_AIRFRAME_DECAL_ALBD.PNG.DDS.json",
@@ -57,8 +62,8 @@
     },
     {
       "path": "SimObjects/Airplanes/Asobo_208B-DLH-Classic/TEXTURE.C208DLHCLASSIC/texture.CFG",
-      "size": 406,
-      "date": 132444645700000000
+      "size": 503,
+      "date": 132733364298713811
     },
     {
       "path": "SimObjects/Airplanes/Asobo_208B-DLH-Classic/TEXTURE.C208DLHCLASSIC/thumbnail.JPG",
