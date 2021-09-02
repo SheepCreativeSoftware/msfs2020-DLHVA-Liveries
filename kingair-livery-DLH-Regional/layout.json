@@ -17,8 +17,8 @@
     },
     {
       "path": "SimObjects/Airplanes/Asobo_KingAir350-DLH-Regional/panel.B350DLHREGIONAL/PANEL.CFG",
-      "size": 1114,
-      "date": 132682322459758964
+      "size": 218,
+      "date": 132750759531214874
     },
     {
       "path": "SimObjects/Airplanes/Asobo_KingAir350-DLH-Regional/TEXTURE.B350DLHREGIONAL/KINGAIR350I_AIRFRAME_DECALS_ALBD.TIF.DDS",
@@ -147,18 +147,18 @@
     },
     {
       "path": "SimObjects/Airplanes/Asobo_KingAir350-DLH-Regional/TEXTURE.B350DLHREGIONAL/texture.CFG",
-      "size": 321,
-      "date": 132682474666220272
+      "size": 368,
+      "date": 132750759890633873
     },
     {
       "path": "SimObjects/Airplanes/Asobo_KingAir350-DLH-Regional/TEXTURE.B350DLHREGIONAL/thumbnail.JPG",
-      "size": 310383,
-      "date": 132422746280000000
+      "size": 367516,
+      "date": 132682493063324511
     },
     {
       "path": "SimObjects/Airplanes/Asobo_KingAir350-DLH-Regional/TEXTURE.B350DLHREGIONAL/thumbnail_small.JPG",
-      "size": 38635,
-      "date": 132422746280000000
+      "size": 67898,
+      "date": 132682493070257381
     }
   ]
 }
