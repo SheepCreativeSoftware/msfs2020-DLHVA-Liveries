@@ -2,18 +2,13 @@
   "content": [
     {
       "path": "SimObjects/Airplanes/Asobo_KingAir350-DLH-Regional/aircraft.cfg",
-      "size": 4264,
-      "date": 132682472673246368
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_KingAir350-DLH-Regional/MODEL.AIB350DLHREGIONAL/model.CFG",
-      "size": 682,
-      "date": 132500240834632304
+      "size": 2053,
+      "date": 132750785966204401
     },
     {
       "path": "SimObjects/Airplanes/Asobo_KingAir350-DLH-Regional/MODEL.MAIN/model.CFG",
-      "size": 743,
-      "date": 132485850764316810
+      "size": 259,
+      "date": 132750785218529239
     },
     {
       "path": "SimObjects/Airplanes/Asobo_KingAir350-DLH-Regional/panel.B350DLHREGIONAL/PANEL.CFG",

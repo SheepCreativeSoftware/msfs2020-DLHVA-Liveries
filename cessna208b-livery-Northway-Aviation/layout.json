@@ -2,18 +2,13 @@
   "content": [
     {
       "path": "SimObjects/Airplanes/Asobo_208B-Northway-Aviation/aircraft.cfg",
-      "size": 4231,
-      "date": 132684059534119806
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_208B-Northway-Aviation/MODEL.AINorthwayAviation/model.CFG",
-      "size": 911,
-      "date": 132497788469356754
+      "size": 2041,
+      "date": 132750784679605430
     },
     {
       "path": "SimObjects/Airplanes/Asobo_208B-Northway-Aviation/MODEL.MAIN/model.CFG",
-      "size": 990,
-      "date": 132485824643926313
+      "size": 288,
+      "date": 132750783990690930
     },
     {
       "path": "SimObjects/Airplanes/Asobo_208B-Northway-Aviation/panel.NorthwayAviation/PANEL.CFG",
