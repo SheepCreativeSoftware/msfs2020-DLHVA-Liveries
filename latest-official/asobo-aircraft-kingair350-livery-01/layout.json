@@ -7,78 +7,68 @@
     },
     {
       "path": "SimObjects/Airplanes/Asobo_KingAir350_Livery_01/model.01/KINGAIR_350I.xml",
-      "size": 4586,
-      "date": 132676337170000000
+      "size": 4591,
+      "date": 132839662570000000
     },
     {
       "path": "SimObjects/Airplanes/Asobo_KingAir350_Livery_01/model.01/KINGAIR_350I_LOD0.bin",
-      "size": 14812652,
-      "date": 132780922805291543
+      "size": 14811248,
+      "date": 132864920586353537
     },
     {
       "path": "SimObjects/Airplanes/Asobo_KingAir350_Livery_01/model.01/KINGAIR_350I_LOD0.gltf",
-      "size": 266835,
-      "date": 132780922805331525
+      "size": 268830,
+      "date": 132864920586375107
     },
     {
       "path": "SimObjects/Airplanes/Asobo_KingAir350_Livery_01/model.01/KINGAIR_350I_LOD1.bin",
-      "size": 10841148,
-      "date": 132751665299499238
+      "size": 10839744,
+      "date": 132864920595799443
     },
     {
       "path": "SimObjects/Airplanes/Asobo_KingAir350_Livery_01/model.01/KINGAIR_350I_LOD1.gltf",
-      "size": 278564,
-      "date": 132751665299559212
+      "size": 267596,
+      "date": 132864920595819423
     },
     {
       "path": "SimObjects/Airplanes/Asobo_KingAir350_Livery_01/model.01/KINGAIR_350I_LOD2.bin",
-      "size": 6155208,
-      "date": 132751665307546678
+      "size": 6153804,
+      "date": 132864920601240486
     },
     {
       "path": "SimObjects/Airplanes/Asobo_KingAir350_Livery_01/model.01/KINGAIR_350I_LOD2.gltf",
-      "size": 265553,
-      "date": 132751665307596646
+      "size": 254933,
+      "date": 132864920601260448
     },
     {
       "path": "SimObjects/Airplanes/Asobo_KingAir350_Livery_01/model.01/KINGAIR_350I_LOD3.bin",
-      "size": 3416852,
-      "date": 132751665312481895
+      "size": 3415448,
+      "date": 132864920604412003
     },
     {
       "path": "SimObjects/Airplanes/Asobo_KingAir350_Livery_01/model.01/KINGAIR_350I_LOD3.gltf",
-      "size": 254498,
-      "date": 132751665312521870
+      "size": 244291,
+      "date": 132864920604432687
     },
     {
       "path": "SimObjects/Airplanes/Asobo_KingAir350_Livery_01/model.01/KINGAIR_350I_LOD4.bin",
-      "size": 719492,
-      "date": 132751665314227318
+      "size": 607316,
+      "date": 132864920608208752
     },
     {
       "path": "SimObjects/Airplanes/Asobo_KingAir350_Livery_01/model.01/KINGAIR_350I_LOD4.gltf",
-      "size": 149179,
-      "date": 132751665314247306
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_KingAir350_Livery_01/model.01/KINGAIR_350I_LOD5.bin",
-      "size": 552548,
-      "date": 132751665315576868
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_KingAir350_Livery_01/model.01/KINGAIR_350I_LOD5.gltf",
-      "size": 126602,
-      "date": 132751665315596857
+      "size": 118255,
+      "date": 132864920608218725
     },
     {
       "path": "SimObjects/Airplanes/Asobo_KingAir350_Livery_01/model.01/KINGAIR_350I_LOD6.bin",
       "size": 6084,
-      "date": 132751665316819325
+      "date": 132864920608919617
     },
     {
       "path": "SimObjects/Airplanes/Asobo_KingAir350_Livery_01/model.01/KINGAIR_350I_LOD6.gltf",
-      "size": 2901,
-      "date": 132751665316819325
+      "size": 2678,
+      "date": 132864920608929626
     },
     {
       "path": "SimObjects/Airplanes/Asobo_KingAir350_Livery_01/model.01/model.CFG",
@@ -91,34 +81,54 @@
       "date": 132682183340000000
     },
     {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350_Livery_01/texture.01/KINGAIR350I_AIRFRAME_DECALS_ALBD.TIF.DDS",
+      "size": 5592560,
+      "date": 132864920574519193
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350_Livery_01/texture.01/KINGAIR350I_AIRFRAME_DECALS_ALBD.TIF.DDS.json",
+      "size": 119,
+      "date": 132864920574489286
+    },
+    {
       "path": "SimObjects/Airplanes/Asobo_KingAir350_Livery_01/texture.01/KINGAIR350I_AIRFRAME_LIVERY01_ALBD.PNG.DDS",
       "size": 11064,
-      "date": 132796479060693877
+      "date": 132864920571357627
     },
     {
       "path": "SimObjects/Airplanes/Asobo_KingAir350_Livery_01/texture.01/KINGAIR350I_AIRFRAME_LIVERY01_ALBD.PNG.DDS.json",
       "size": 102,
-      "date": 132796479060683888
+      "date": 132864920571357627
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350_Livery_01/texture.01/KINGAIR350I_AIRFRAME_LOD4_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132864920607490668
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350_Livery_01/texture.01/KINGAIR350I_AIRFRAME_LOD4_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132864920607470722
     },
     {
       "path": "SimObjects/Airplanes/Asobo_KingAir350_Livery_01/texture.01/KINGAIR350I_AIRFRAME_LOD6_ALBD.PNG.DDS",
       "size": 349672,
-      "date": 132796479061963157
+      "date": 132864920608859782
     },
     {
       "path": "SimObjects/Airplanes/Asobo_KingAir350_Livery_01/texture.01/KINGAIR350I_AIRFRAME_LOD6_ALBD.PNG.DDS.json",
       "size": 102,
-      "date": 132796479061953165
+      "date": 132864920608849803
     },
     {
       "path": "SimObjects/Airplanes/Asobo_KingAir350_Livery_01/texture.01/KINGAIR350I_AIRFRAME_WINGS_ALBD.PNG.DDS",
       "size": 11184952,
-      "date": 132796479060573942
+      "date": 132864920570559754
     },
     {
       "path": "SimObjects/Airplanes/Asobo_KingAir350_Livery_01/texture.01/KINGAIR350I_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
       "size": 102,
-      "date": 132796479060474006
+      "date": 132864920570509889
     },
     {
       "path": "SimObjects/Airplanes/Asobo_KingAir350_Livery_01/texture.01/texture.CFG",

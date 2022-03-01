@@ -8,8 +8,8 @@
 		<LOD minSize="90" ModelFile="KINGAIR_350I_LOD1.gltf"/>
 		<LOD minSize="75" ModelFile="KINGAIR_350I_LOD2.gltf"/>
 		<LOD minSize="40" ModelFile="KINGAIR_350I_LOD3.gltf"/>
-		<LOD minSize="20" ModelFile="KINGAIR_350I_LOD4.gltf"/>
-		<LOD minSize="10" ModelFile="KINGAIR_350I_LOD5.gltf"/>
+		<LOD minSize="10" ModelFile="KINGAIR_350I_LOD4.gltf"/>
+		<!--LOD minSize="10" ModelFile="KINGAIR_350I_LOD5.gltf"/-->
 		<LOD minSize="1" ModelFile="KINGAIR_350I_LOD6.gltf"/>
 	</LODS>
 	<Behaviors>
